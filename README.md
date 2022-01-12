@@ -1,5 +1,7 @@
 # HATE SPEECH ON TWITTER WITH TEXT MACHINE LEARNING
  Hi,
+ ### My name is Watchiba,
+ 
  This is one of my Data Science research, so I decided to share with you all.
 
 This project considered HatEval dataset. This dataset came from SemEval 2019 (Task 5) for a competition on multilingual (English and Spanish) detection of hate tweets targeting women and immigrants. It is made up of sets of three labels. The first label denotes whether the tweet shows hatred towards women or immigrants, the second, whether the tweet is aggressive, and the third, whether the tweet is directed against an individual or the entire group.
