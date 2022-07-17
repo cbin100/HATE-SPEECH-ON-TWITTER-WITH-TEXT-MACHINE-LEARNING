@@ -1,6 +1,6 @@
 # HATE SPEECH ON TWITTER WITH TEXT MACHINE LEARNING
  Hi,
- ### My name is Watchiba,
+ 
  
  This is one of my Data Science research, so I decided to share with you all.
 
